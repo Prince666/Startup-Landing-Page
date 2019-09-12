@@ -1,0 +1,35 @@
+body
+{
+    background-image: url(cover.jpg);
+    background-size: cover;
+    cursor: pointer;
+}
+
+h1
+{
+    font-family: 'Montserrat', sans-serif;
+    
+    color: cornsilk;
+   
+}
+
+p
+{
+    font-family: 'Montserrat', sans-serif;
+    
+    color: cornsilk;
+}
+
+.btn-secondary
+{
+    background-color: orangered;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer,a
+{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+
